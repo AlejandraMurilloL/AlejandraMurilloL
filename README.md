@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es María Alejandra Murillo 
+### ¡Hola a todos! Mi nombre es Alejandra Murillo 
 
 ## 🔎 Mis estadisticas: 
 
