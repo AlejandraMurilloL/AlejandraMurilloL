@@ -21,7 +21,7 @@ Soy Alejandra Murillo, estudiante de Ingenieria de sistemas y una amante del des
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
-
+<br />
 ---
 
 
@@ -32,4 +32,4 @@ Soy Alejandra Murillo, estudiante de Ingenieria de sistemas y una amante del des
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandraMurilloL&layout=compact&show_icons=true&theme=tokyonight"/>
 
   
-[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
+[linkedin]: https://www.linkedin.com/in/maria-alejandra-murillo-lara-880256189/
