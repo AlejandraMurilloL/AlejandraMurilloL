@@ -5,6 +5,14 @@ Soy Alejandra Murillo, estudiante de Ingenieria de sistemas y una amante del des
 - :books: Me gusta estar siempre aprendiendo cosas nuevas
 - 💬 Preguntame [Aquí](https://github.com/AlejandraMurilloL/AlejandraMurilloL/issues) sobre cualquier cosa, estaré feliz de poder ayudarte. 
 
+**Lenguajes y herramientas:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dotnetcore/dotnetcore-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-plain.svg"></code>    
+
 ### 🔎 Mis estadisticas: 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlejandraMurilloL&show_icons=true&theme=tokyonight"/>
