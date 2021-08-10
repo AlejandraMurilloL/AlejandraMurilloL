@@ -5,6 +5,8 @@ Soy Alejandra Murillo, estudiante de Ingenieria de sistemas y una amante del des
 - :books: Me gusta estar siempre aprendiendo cosas nuevas
 - 💬 Preguntame [Aquí](https://github.com/AlejandraMurilloL/AlejandraMurilloL/issues) sobre cualquier cosa, estaré feliz de poder ayudarte. 
 
+---
+
 **Lenguajes y herramientas:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-plain.svg"></code>
@@ -13,6 +15,7 @@ Soy Alejandra Murillo, estudiante de Ingenieria de sistemas y una amante del des
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-plain.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-plain.svg"></code>    
 
+---
 
 ### 🔎 Mis estadisticas: 
 
