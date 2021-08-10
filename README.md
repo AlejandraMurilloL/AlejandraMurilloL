@@ -2,7 +2,7 @@
 
 Soy Alejandra Murillo, estudiante de Ingenieria de sistemas y una amante del desarrollo.
 
-- :books: Me gusta estar siempre aprendiendo cosas nuevas
+- :books: Me gusta estar siempre aprendiendo cosas nuevas.
 - 💬 Preguntame [Aquí](https://github.com/AlejandraMurilloL/AlejandraMurilloL/issues) sobre cualquier cosa, estaré feliz de poder ayudarte. 
 
 ---
