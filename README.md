@@ -22,6 +22,7 @@ Soy Alejandra Murillo, estudiante de Ingenieria de sistemas y una amante del des
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
 <br />
+
 ---
 
 
