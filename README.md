@@ -19,7 +19,7 @@ Soy Alejandra Murillo, estudiante de Ingenieria de sistemas y una amante del des
 
 **Contactame:**  
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin](https://www.linkedin.com/in/maria-alejandra-murillo-lara-880256189/)
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
 ---
 
@@ -28,3 +28,6 @@ Soy Alejandra Murillo, estudiante de Ingenieria de sistemas y una amante del des
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlejandraMurilloL&show_icons=true&theme=tokyonight"/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandraMurilloL&layout=compact&show_icons=true&theme=tokyonight"/>
+
+  
+[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
