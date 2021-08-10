@@ -25,8 +25,7 @@ Soy Alejandra Murillo, estudiante de Ingenieria de sistemas y una amante del des
 
 ---
 
-
-### 🔎 Mis estadisticas: 
+🔎 **Mis estadisticas:**  
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlejandraMurilloL&show_icons=true&theme=tokyonight"/>
 
